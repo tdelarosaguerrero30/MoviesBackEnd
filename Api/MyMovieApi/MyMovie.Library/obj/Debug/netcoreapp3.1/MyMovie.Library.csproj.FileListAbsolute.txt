@@ -1,0 +1,13 @@
+C:\Users\tdelarosa\Desktop\Examen Practica\Api\MyMovieApi\MyMovie.Library\bin\Debug\netcoreapp3.1\MyMovie.Library.deps.json
+C:\Users\tdelarosa\Desktop\Examen Practica\Api\MyMovieApi\MyMovie.Library\bin\Debug\netcoreapp3.1\MyMovie.Library.dll
+C:\Users\tdelarosa\Desktop\Examen Practica\Api\MyMovieApi\MyMovie.Library\bin\Debug\netcoreapp3.1\MyMovie.Library.pdb
+C:\Users\tdelarosa\Desktop\Examen Practica\Api\MyMovieApi\MyMovie.Library\obj\Debug\netcoreapp3.1\MyMovie.Library.csproj.AssemblyReference.cache
+C:\Users\tdelarosa\Desktop\Examen Practica\Api\MyMovieApi\MyMovie.Library\obj\Debug\netcoreapp3.1\MyMovie.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tdelarosa\Desktop\Examen Practica\Api\MyMovieApi\MyMovie.Library\obj\Debug\netcoreapp3.1\MyMovie.Library.AssemblyInfoInputs.cache
+C:\Users\tdelarosa\Desktop\Examen Practica\Api\MyMovieApi\MyMovie.Library\obj\Debug\netcoreapp3.1\MyMovie.Library.AssemblyInfo.cs
+C:\Users\tdelarosa\Desktop\Examen Practica\Api\MyMovieApi\MyMovie.Library\obj\Debug\netcoreapp3.1\MyMovie.Library.csproj.CoreCompileInputs.cache
+C:\Users\tdelarosa\Desktop\Examen Practica\Api\MyMovieApi\MyMovie.Library\obj\Debug\netcoreapp3.1\MyMovie.Library.dll
+C:\Users\tdelarosa\Desktop\Examen Practica\Api\MyMovieApi\MyMovie.Library\obj\Debug\netcoreapp3.1\MyMovie.Library.pdb
+C:\Users\tdelarosa\Desktop\Examen Practica\Api\MyMovieApi\MyMovie.Library\bin\Debug\netcoreapp3.1\MyMovie.Library.runtimeconfig.json
+C:\Users\tdelarosa\Desktop\Examen Practica\Api\MyMovieApi\MyMovie.Library\bin\Debug\netcoreapp3.1\MyMovie.Library.runtimeconfig.dev.json
+C:\Users\tdelarosa\Desktop\Examen Practica\Api\MyMovieApi\MyMovie.Library\obj\Debug\netcoreapp3.1\MyMovie.Library.genruntimeconfig.cache
